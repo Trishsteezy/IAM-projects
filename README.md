@@ -25,11 +25,6 @@ Transitioning from military IT and systems administration into Identity \& Acces
 My background includes DISA STIG compliance, ACAS vulnerability scanning, and classified DoD systems — now applying that foundation to enterprise IAM, Zero Trust architecture, and machine identity at scale.
 
 
-
-\*\*Goal:\*\* Booz Allen Hamilton → Anthropic AI Security Engineering
-
-
-
 \---
 
 
@@ -89,8 +84,6 @@ My background includes DISA STIG compliance, ACAS vulnerability scanning, and cl
 |--------------|--------|--------|
 
 | CompTIA Security+ | CompTIA | ✅ Earned |
-
-| CompTIA A+ | CompTIA | ✅ Earned |
 
 | Google IT Support Professional | Google / Coursera | ✅ Earned |
 
